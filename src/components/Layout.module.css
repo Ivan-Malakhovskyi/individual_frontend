@@ -1,0 +1,22 @@
+.container {
+    padding: 0 16px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_list {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.active {
+    padding: 8px 12px;
+    border-radius: 8px;
+    background-color: orangered;
+    color: #fff;
+}

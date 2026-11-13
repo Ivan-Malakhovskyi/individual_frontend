@@ -1,9 +1,9 @@
 {
-  "name": "react_vite_template",
+  "name": "individual_frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ivan-Malakhovskyi.github.io/react_vite_template/",
+  "homepage": "https://Ivan-Malakhovskyi.github.io/individual_frontend/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-router": "^8.5.1"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
